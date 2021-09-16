@@ -6,8 +6,11 @@
 - Database Query's
 
 ## Data Set
-Data Set: https://github.com/HarryCS98/MongoDB-Project/blob/main/EPL_dataset.csv
-Data Set Key: https://github.com/HarryCS98/MongoDB-Project/blob/main/EPL_DataSet_Key.txt
+
+ - Data Set:
+   https://github.com/HarryCS98/MongoDB-Project/blob/main/EPL_dataset.csv
+   Data Set Key:
+   https://github.com/HarryCS98/MongoDB-Project/blob/main/EPL_DataSet_Key.txt
 
 ## Database Creation
 
